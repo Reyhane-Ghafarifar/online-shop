@@ -16,7 +16,7 @@ p{
 a {
     text-decoration: none;
     align-self: center;
-    width: 80%;
+    margin: 0 auto;
 }
 
 .contact-us__text {
@@ -53,11 +53,10 @@ text-align: right;
     outline: none;
     border: none;
     border-radius: 8px;
-    padding: 2.5rem 0;
+    padding: 2.5rem 2rem;
     text-align: center;
     white-space: nowrap;
     margin: 1rem;
-    
     font-size: 2.2rem;
     color: #424874;
 }

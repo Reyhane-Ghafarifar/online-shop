@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-    background-color: #fff;
+    opacity: 0.8;
 }
 
 .contact-us__text {
@@ -67,7 +67,6 @@ text-align: right;
     margin: 1rem;
     width: 80%;
     align-self: center;
-    color: #fff;
 }
 
 .btn:hover {

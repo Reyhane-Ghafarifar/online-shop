@@ -36,6 +36,7 @@ text-align: right;
     margin: 8rem 1rem;
     border-radius: 1.5rem;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.4);
+    padding-bottom: 1rem ;
 }
 
 .description__text {

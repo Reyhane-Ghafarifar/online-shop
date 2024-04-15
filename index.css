@@ -15,7 +15,6 @@ p{
 
 a {
     text-decoration: none;
-    cursor: pointer;
     font-size: 2.2rem;
     color: #424874;
     padding: 2.5rem;
@@ -53,7 +52,6 @@ text-align: right;
 }
 
 .btn {
-    cursor: pointer;
     outline: none;
     border: none;
     border-radius: 8px;

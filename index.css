@@ -9,6 +9,7 @@ body {
 }
 
 p{
+    color: #fff;
     font-size: 2.5rem;
 }
 
@@ -31,7 +32,6 @@ text-align: right;
 }
 
 .description {
-    /* background-color: #c4c1e0; */
     background: linear-gradient(185deg, rgba(87,87,184,1) 0%, rgba(204,190,255,1) 100%) no-repeat;
     margin: 8rem 1rem;
     border-radius: 1.5rem;

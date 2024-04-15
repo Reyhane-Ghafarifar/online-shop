@@ -3,10 +3,10 @@ html {
 }
 
 body {
-    background: rgb(105,105,183);
-background: linear-gradient(185deg, rgba(105,105,183,1) 0%, rgba(255,255,255,1) 100%) no-repeat;
-font-family: cursive;
-padding: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     font-family: cursive;
 }
 
 p{
@@ -33,6 +33,7 @@ text-align: right;
 
 .description {
     background-color: #c4c1e0;
+    background: linear-gradient(185deg, rgba(87,87,184,1) 0%, rgba(204,190,255,1) 100%) no-repeat;
     margin: 8rem 1rem;
     border-radius: 1.5rem;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);

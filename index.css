@@ -1,0 +1,66 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: rgb(105,105,183);
+background: linear-gradient(185deg, rgba(105,105,183,1) 0%, rgba(255,255,255,1) 100%) no-repeat;
+font-family: cursive;
+padding: 2rem 0;
+}
+
+p{
+    font-size: 2.5rem;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2.2rem;
+    color: #424874;
+
+}
+
+.contact-us__text {
+    padding: 0 2rem;
+text-align: right;
+}
+
+.contact-us {
+    display: flex;
+    flex-direction: column;
+}
+
+.description {
+    background-color: #c4c1e0;
+    margin: 8rem 1rem;
+    border-radius: 1.5rem;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.description__text {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+}
+
+.logo {
+  width: 8rem;
+  margin-right: 1rem;
+}
+
+.btn {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    padding: 2.5rem 2.5rem;
+    text-align: center;
+    white-space: nowrap;
+    margin: 1rem;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

@@ -22,10 +22,6 @@ a {
 
 }
 
-a:hover {
-    opacity: 0.8;
-}
-
 .contact-us__text {
     padding: 0 2rem;
 text-align: right;
@@ -67,8 +63,4 @@ text-align: right;
     margin: 1rem;
     width: 80%;
     align-self: center;
-}
-
-.btn:hover {
-    opacity: 0.8;
 }
